@@ -1,0 +1,11 @@
+.text-img{
+    background: linear-gradient(rgba(255,255,255,0), rgb(94, 3, 86));
+}
+
+@media screen and (max-width:592px)
+{
+.text-img{
+    font-size: 20px;
+}
+
+}
